@@ -1,0 +1,4 @@
+Each candidate should add a profile and submit it to Gerrit.
+Voting will consist of a Gerritt review. Candidate should send their profile for review via Gerrit.
+Existing members will +1 a Candidate profile to vote for a particular candidate.Only voting WG members votes will count.
+WG members should only vote for a single candidate. 
