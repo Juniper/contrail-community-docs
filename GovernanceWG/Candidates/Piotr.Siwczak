@@ -1,0 +1,6 @@
+For the last 2 years I have been providing technical vision and leadership to an engineering organization focused on microservices and cloud computing. I delivered a number of projects high-impact  for Mirantis customers in the telco sector (e.g. https://gigaom.com/2014/04/17/ericsson-solidifies-openstack-commitment-with-big-assist-from-mirantis/).
+ 
+As of today, my engineering team is doing active research and development in the area of NFV and containers. We aim to facilitate onboarding of telecommunication companies on this technology. Our example projects:
+·        Enabling and testing OpenContrail as a common SDN fabric which can bridge Openstack and Kubernetes within a single cloud platform
+·        Enabling Kubernetes to run regular KVM VM-s
+·        Service chaining implementation in Kubernetes
