@@ -37,5 +37,7 @@ fixed membership. Anyone wishing to help work on the CI system or seeking help
 with the developer environment is welcome to join.
 
 Date: Every Tuesday
-Time: 1400 Eastern Time (1800 UTC during US Daylight Savings Time)
+Time: Alternating 1200/1800 (Check Agenda/Minutes URL for alternation)
 Meeting URL: https://zoom.us/j/172248735
+Agenda/Minutes URL: https://docs.google.com/document/d/1y228rWTUanvJfV-G85RByOlKRCApMf9m2Gj7g2wIi6g/edit
+
