@@ -11,15 +11,17 @@ https://launchpad.net/juniperopenstack
 
 #1. Registration and User Creation
 ----------------------------------
-a. A new developer should register on OpenContrail development/user forums and
-slack on this link: http://www.opencontrail.org/newsletter-and-mailing-lists/
+a. CLA - all developers must be covered by a Contribution License Agreement. There are two types. Corporate CLA which will cover you if you company is a project member or individual CLA if you are not covered by a corporate CLA. Don't know if you are already covered? Contact gelkinbard@juniper.net. CLAs are located on the community google drive. Sign up for access using instructions in step c. Get CLAs signed and submit to gelkinbard@juniper.net 
 
-b. In order to submit blueprints for a new feature or to raise bugs on existing features,
+b. Get a gerrit account. Go to review.opencontrail.org. Sign up for new account. Accounts are not automatically associated with a CLA so you have to contact either your corporate community admin to get added to the corp gerrit group or gelkinbard@juniper.net if you are individual contributor. Don't know who your corporate admin is? Contact gelkinbard@juniper.net 
+
+c. Register for mailing lists (Google Groups) and slack. Go to https://tungsten.io/community/ click on slack button, click on Users Email button and Developers button. This also gives you access to the community google drive.
+
+d. In order to submit blueprints for a new feature or to raise bugs on existing features,
+
 create a user-id on Launchpad: https://login.launchpad.net/iwoFJXFITJbWRFUj/+decide
 
-c. Create a GitHub account by Signing up on https://github.com/ if not already registered
-
-d. Register for an account at https://review.opencontrail.org for gerrit review
+e. Create a GitHub account by Signing up on https://github.com/ if not already registered
 
 #2. Ubuntu installation and configuration
 -------------------
