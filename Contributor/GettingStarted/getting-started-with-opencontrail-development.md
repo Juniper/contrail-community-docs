@@ -15,11 +15,11 @@ a. A new developer should register on OpenContrail development/user forums and
 slack on this link: http://www.opencontrail.org/newsletter-and-mailing-lists/
 
 b. In order to submit blueprints for a new feature or to raise bugs on existing features,
-create a user-id on Launchpad: https://login.launchpad.net/iwoFJXFITJbWRFUj/+decide
+create a user-id on Launchpad by clicking `Sign In` in the top right corner of https://review.opencontrail.org/ and completing the Ubuntu One account creation.
 
 c. Create a GitHub account by Signing up on https://github.com/ if not already registered
 
-d. Register for an account at https://review.opencontrail.org for gerrit review
+d. Sign into https://review.opencontrail.org/ with your newly created account and navigate to https://review.opencontrail.org/#/settings/agreements and click `New Contributor Agreement`.  Complete the ICLA (or CCLA) form and submit as per the on-page documentation.
 
 #2. Ubuntu installation and configuration
 -------------------
