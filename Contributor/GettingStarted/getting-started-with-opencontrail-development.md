@@ -163,6 +163,17 @@ a. Install git-review
 
     sudo apt-get install git-review
 
+    Version 1.28.0 is known to work
+
+    Some earlier versions might yield bogus permission errors, such
+    as these seen with versions 1.24 and 1.26.0:
+
+    remote: error: branch refs/publish/master:
+    remote: You need 'Create' rights to create new references.
+    remote: User: darball
+    remote: Contact an administrator to fix the permissions
+    remote: Processing changes: refs: 1, done
+
 b. Configure Gerrit
 
     git config --global user.email username@someone.com
@@ -185,4 +196,12 @@ e. Push the locally committed changes up for review
     git push ssh://username@review.opencontrail.org:29418/REPOSITORY_NAME \
     HEAD:refs/for/<branch>%topic=<few-words-describing-the-change>, \
     r=reviewername@someone.com, cc=otherreviewer@someone.com
+
+    or just
+
+    git review
+
+    or
+
+    git-review
 
